@@ -40,7 +40,7 @@ Biblioteca de componentes reutilizáveis com React.
 
 <div align="center">
 
-<a href="www.linkedin.com/in/lucas-liberatto">
+<a href="https://www.linkedin.com/in/lucas-liberatto">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
