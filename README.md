@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Lucas LIberato</h1>
+<h1 align="center">Olá 👋, eu sou Lucas Liberato</h1>
 
 <p align="center">
   Estudante e desenvolvedor Front-End focado em criar interfaces modernas,
@@ -31,23 +31,8 @@
 ### 🏥 INSUMED
 Interface moderna para área da saúde com foco em acessibilidade e organização visual.
 
-### 🌐 Landing Pages Modernas
-Páginas responsivas com design profissional e animações suaves.
-
 ### 🧩 Componentes UI
 Biblioteca de componentes reutilizáveis com React.
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -62,13 +47,5 @@ Biblioteca de componentes reutilizáveis com React.
 <a href="mailto:lucasmarcelo1808@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-✨ Sempre buscando transformar ideias em experiências visuais incríveis ✨
 
 </div>
