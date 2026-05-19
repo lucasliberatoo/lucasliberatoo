@@ -1,18 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Lucas Liberato</h1>
 
 <p align="center">
-  Estudante e desenvolvedor Front-End focado em criar interfaces modernas,
-  responsivas e visualmente profissionais.
+  Estudante
 </p>
 
----
-
-## 🚀 Sobre mim
-
-- 🎨 Apaixonado por UI/UX e design moderno
-- ⚛️ Desenvolvendo aplicações com React e TypeScript
-- 📱 Foco em melhorar a visibilidade do usuário com experiências fluidas
-- 💡 Sempre buscando evoluir visual, performance e organização
 
 ---
 
