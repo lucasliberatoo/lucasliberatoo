@@ -4,7 +4,6 @@
   Estudante
 </p>
 
-
 ---
 
 ## 🛠️ Tecnologias
@@ -21,11 +20,6 @@
 
 ### 🏥 INSUMED
 Interface moderna para área da saúde com foco em acessibilidade e organização visual.
-
-### 🧩 Componentes UI
-Biblioteca de componentes reutilizáveis com React.
-
----
 
 ## 🌎 Onde me encontrar
 
