@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, eu sou Lucas Liberato</h1>
 
 <p align="center">
-  Estudante
+   Sou estudante do terceiro ano do Curso Técnico de Informática da FAETEC
 </p>
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias mais usadas
 
 <div align="center">
 
@@ -16,12 +16,12 @@
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### 🏥 INSUMED
-Interface moderna para área da saúde com foco em acessibilidade e organização visual.
+### INSUMED
+Projeto de TCC
 
-## 🌎 Onde me encontrar
+## Onde me encontrar
 
 <div align="center">
 
